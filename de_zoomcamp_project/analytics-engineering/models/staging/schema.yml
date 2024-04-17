@@ -1,0 +1,14 @@
+version: 1
+
+sources:
+  - name: staging
+    database:
+      dezoomcamp-411909
+      # For postgres:
+      #database: production
+    schema:
+      covid_dataset_de_project
+
+      # loaded_at_field: record_loaded_at
+    tables:
+      - name: covid_data_all
