@@ -18,8 +18,6 @@ root_path = f'{bucket_name}/{table_name}'
 
 @data_exporter
 def export_data(data, *args, **kwargs):
-   #data['tpep_pickup_date'] = data['tpep_pickup_datetime'].dt.date
-
    table = pa.Table.from_pandas(data)
 
    # Check if the file already exists in GCS
