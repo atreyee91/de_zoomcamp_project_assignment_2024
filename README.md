@@ -2,7 +2,7 @@
 
 ### Objective
 
-The goal of this project is to build an end-to-end data pipeline. This pipleline extracts the WHO covid dataset from API and transformed it to analytical dataset which provides a detail analysis and insights of covid cases across global locations/continents since 2019.
+The goal of this project is to build an end-to-end data pipeline. This pipleline extracts the WHO covid dataset from API and transformed it to analytical dataset which provides a detail analysis and actionable insights of covid cases across global locations/continents since 2019.
 
 ## Data Pipeline 
 
