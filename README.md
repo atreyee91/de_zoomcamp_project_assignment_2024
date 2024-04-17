@@ -20,7 +20,7 @@ I have used **batch** pipelines which have been scheduled at daily interval.
 
 ## Dataset Used
 
-* `url`: 'https://covid.ourworldindata.org/data/owid-covid-data.csv'
+* `url`: https://covid.ourworldindata.org/data/owid-covid-data.csv
 * `Description`: This covid dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. 
 
 ## File Structure
