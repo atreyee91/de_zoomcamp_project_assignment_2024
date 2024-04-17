@@ -5,7 +5,7 @@ Used DBT to create analytical dataset and deploy in BigQuery
 #### Project
 de_zoomcamp_project - 
   * Consists two models - staging and core
-  * packages.yml - consits dependent packages
+  * `packages.yml` - consits dependent packages
 
 #### Models
 
